@@ -1,0 +1,381 @@
+2026-02-23 22:56:59,275 | INFO | Calling Gemini API...
+2026-02-23 22:56:59,276 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 22:57:01,719 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 22:57:01,743 | INFO | Gemini API success
+2026-02-23 22:57:53,624 | INFO | Calling Gemini API...
+2026-02-23 22:57:53,625 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 22:57:56,623 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 22:57:56,627 | INFO | Gemini API success
+2026-02-23 22:58:42,438 | INFO | Calling Gemini API...
+2026-02-23 22:58:42,440 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 22:58:45,870 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 22:58:45,873 | INFO | Gemini API success
+2026-02-23 22:58:57,441 | INFO | Calling Gemini API...
+2026-02-23 22:58:57,441 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 22:59:05,253 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 22:59:05,255 | INFO | Gemini API success
+2026-02-23 23:01:59,935 | INFO | Calling Gemini API...
+2026-02-23 23:01:59,936 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 23:02:04,090 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 23:02:04,095 | INFO | Gemini API success
+2026-02-23 23:02:22,502 | INFO | Calling Gemini API...
+2026-02-23 23:02:22,502 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 23:02:32,144 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 23:02:32,152 | INFO | Gemini API success
+2026-02-23 23:03:13,735 | INFO | Calling Gemini API...
+2026-02-23 23:03:13,735 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 23:03:18,604 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 23:03:18,607 | INFO | Gemini API success
+2026-02-23 23:03:35,506 | INFO | Calling Gemini API...
+2026-02-23 23:03:35,507 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 23:03:45,346 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 23:03:45,362 | INFO | Gemini API success
+2026-02-23 23:12:27,961 | INFO | Calling Gemini API...
+2026-02-23 23:12:27,963 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 23:12:31,550 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 23:12:31,570 | INFO | Gemini API success
+2026-02-23 23:12:57,369 | INFO | Calling Gemini API...
+2026-02-23 23:12:57,370 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 23:12:59,960 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 23:12:59,965 | INFO | Gemini API success
+2026-02-23 23:13:24,836 | INFO | Calling Gemini API...
+2026-02-23 23:13:24,836 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 23:13:31,725 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 23:13:31,729 | INFO | Gemini API success
+2026-02-23 23:14:16,855 | INFO | Calling Gemini API...
+2026-02-23 23:14:16,856 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 23:14:21,780 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 23:14:21,785 | INFO | Gemini API success
+2026-02-23 23:19:33,588 | INFO | Calling Gemini API...
+2026-02-23 23:19:33,588 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 23:19:35,725 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 23:19:35,732 | INFO | Gemini API success
+2026-02-23 23:31:47,158 | INFO | Calling Gemini API...
+2026-02-23 23:31:47,160 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 23:31:50,094 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 23:31:50,101 | INFO | Gemini API success
+2026-02-23 23:33:25,622 | INFO | Calling Gemini API...
+2026-02-23 23:33:25,623 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 23:33:27,446 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 23:33:27,461 | INFO | Gemini API success
+2026-02-23 23:33:40,748 | INFO | Calling Gemini API...
+2026-02-23 23:33:40,749 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 23:33:44,553 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 23:33:44,561 | INFO | Gemini API success
+2026-02-23 23:34:19,435 | INFO | Calling Gemini API...
+2026-02-23 23:34:19,436 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 23:34:24,123 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 23:34:24,126 | INFO | Gemini API success
+2026-02-23 23:34:36,644 | INFO | Calling Gemini API...
+2026-02-23 23:34:36,645 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 23:34:41,251 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 23:34:41,256 | INFO | Gemini API success
+2026-02-23 23:36:03,122 | INFO | Calling Gemini API...
+2026-02-23 23:36:03,123 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 23:36:08,295 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 23:36:08,302 | INFO | Gemini API success
+2026-02-23 23:36:29,352 | INFO | Calling Gemini API...
+2026-02-23 23:36:29,352 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 23:36:30,193 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-02-23 23:36:30,196 | ERROR | Gemini API error
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\chatbot_project\chatbot\chatbot.py", line 75, in <module>
+    response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        contents=final_prompt
+    )
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\models.py", line 5621, in generate_content
+    response = self._generate_content(
+        model=model, contents=contents, config=parsed_config
+    )
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\models.py", line 4283, in _generate_content
+    response = self._api_client.request(
+        'post', path, request_dict, http_options
+    )
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\_api_client.py", line 1396, in request
+    response = self._request(http_request, http_options, stream=False)
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\_api_client.py", line 1232, in _request
+    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 470, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 371, in iter
+    result = action(retry_state)
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 413, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 184, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 473, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\_api_client.py", line 1209, in _request_once
+    errors.APIError.raise_for_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\errors.py", line 134, in raise_for_response
+    cls.raise_error(response.status_code, response_json, response)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\errors.py", line 159, in raise_error
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 31.138737523s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31s'}]}}
+2026-02-23 23:43:15,764 | INFO | Calling Gemini API...
+2026-02-23 23:43:15,765 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 23:43:18,051 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 23:43:18,064 | INFO | Gemini API success
+2026-02-23 23:44:59,567 | INFO | Calling Gemini API...
+2026-02-23 23:44:59,567 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 23:45:03,655 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 23:45:03,663 | INFO | Gemini API success
+2026-02-23 23:47:30,082 | INFO | Calling Gemini API...
+2026-02-23 23:47:30,083 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 23:47:30,878 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-02-23 23:47:30,880 | ERROR | Gemini API error
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\chatbot_project\chatbot\chatbot.py", line 75, in <module>
+    response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        contents=final_prompt
+    )
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\models.py", line 5621, in generate_content
+    response = self._generate_content(
+        model=model, contents=contents, config=parsed_config
+    )
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\models.py", line 4283, in _generate_content
+    response = self._api_client.request(
+        'post', path, request_dict, http_options
+    )
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\_api_client.py", line 1396, in request
+    response = self._request(http_request, http_options, stream=False)
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\_api_client.py", line 1232, in _request
+    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 470, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 371, in iter
+    result = action(retry_state)
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 413, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 184, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 473, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\_api_client.py", line 1209, in _request_once
+    errors.APIError.raise_for_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\errors.py", line 134, in raise_for_response
+    cls.raise_error(response.status_code, response_json, response)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\errors.py", line 159, in raise_error
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 30.138045138s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30s'}]}}
+2026-02-23 23:47:58,200 | INFO | Calling Gemini API...
+2026-02-23 23:47:58,201 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 23:47:59,445 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-02-23 23:47:59,448 | ERROR | Gemini API error
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\chatbot_project\chatbot\chatbot.py", line 75, in <module>
+    response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        contents=final_prompt
+    )
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\models.py", line 5621, in generate_content
+    response = self._generate_content(
+        model=model, contents=contents, config=parsed_config
+    )
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\models.py", line 4283, in _generate_content
+    response = self._api_client.request(
+        'post', path, request_dict, http_options
+    )
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\_api_client.py", line 1396, in request
+    response = self._request(http_request, http_options, stream=False)
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\_api_client.py", line 1232, in _request
+    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 470, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 371, in iter
+    result = action(retry_state)
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 413, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 184, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 473, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\_api_client.py", line 1209, in _request_once
+    errors.APIError.raise_for_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\errors.py", line 134, in raise_for_response
+    cls.raise_error(response.status_code, response_json, response)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\errors.py", line 159, in raise_error
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 1.729397544s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '1s'}]}}
+2026-02-23 23:48:13,089 | INFO | Calling Gemini API...
+2026-02-23 23:48:13,089 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 23:48:15,325 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-02-23 23:48:15,327 | ERROR | Gemini API error
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\chatbot_project\chatbot\chatbot.py", line 75, in <module>
+    response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        contents=final_prompt
+    )
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\models.py", line 5621, in generate_content
+    response = self._generate_content(
+        model=model, contents=contents, config=parsed_config
+    )
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\models.py", line 4283, in _generate_content
+    response = self._api_client.request(
+        'post', path, request_dict, http_options
+    )
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\_api_client.py", line 1396, in request
+    response = self._request(http_request, http_options, stream=False)
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\_api_client.py", line 1232, in _request
+    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 470, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 371, in iter
+    result = action(retry_state)
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 413, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 184, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 473, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\_api_client.py", line 1209, in _request_once
+    errors.APIError.raise_for_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\errors.py", line 134, in raise_for_response
+    cls.raise_error(response.status_code, response_json, response)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\errors.py", line 159, in raise_error
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 45.67293485s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '45s'}]}}
+2026-02-23 23:48:33,140 | INFO | Calling Gemini API...
+2026-02-23 23:48:33,141 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-23 23:48:34,370 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-02-23 23:48:34,374 | ERROR | Gemini API error
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\chatbot_project\chatbot\chatbot.py", line 75, in <module>
+    response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        contents=final_prompt
+    )
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\models.py", line 5621, in generate_content
+    response = self._generate_content(
+        model=model, contents=contents, config=parsed_config
+    )
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\models.py", line 4283, in _generate_content
+    response = self._api_client.request(
+        'post', path, request_dict, http_options
+    )
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\_api_client.py", line 1396, in request
+    response = self._request(http_request, http_options, stream=False)
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\_api_client.py", line 1232, in _request
+    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 470, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 371, in iter
+    result = action(retry_state)
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 413, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 184, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\Python313\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\tenacity\__init__.py", line 473, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\_api_client.py", line 1209, in _request_once
+    errors.APIError.raise_for_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\errors.py", line 134, in raise_for_response
+    cls.raise_error(response.status_code, response_json, response)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\chatbot_project\genai_env\Lib\site-packages\google\genai\errors.py", line 159, in raise_error
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 26.652735451s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '26s'}]}}
+2026-02-24 22:36:45,923 | INFO | Calling Gemini API...
+2026-02-24 22:36:45,925 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-24 22:36:49,649 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-24 22:36:49,662 | INFO | Gemini API success
+2026-02-24 22:37:02,109 | INFO | Calling Gemini API...
+2026-02-24 22:37:02,109 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-24 22:37:09,722 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-24 22:37:09,731 | INFO | Gemini API success
+2026-02-24 22:37:28,619 | INFO | Calling Gemini API...
+2026-02-24 22:37:28,619 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-24 22:37:36,756 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-24 22:37:36,759 | INFO | Gemini API success
+2026-02-24 22:38:01,698 | INFO | Calling Gemini API...
+2026-02-24 22:38:01,698 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-24 22:38:08,704 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-24 22:38:08,707 | INFO | Gemini API success
+2026-02-24 22:38:34,419 | INFO | Calling Gemini API...
+2026-02-24 22:38:34,419 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-24 22:38:41,681 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-24 22:38:41,686 | INFO | Gemini API success
+2026-02-24 22:39:06,538 | INFO | Calling Gemini API...
+2026-02-24 22:39:06,539 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-24 22:39:10,757 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-24 22:39:10,762 | INFO | Gemini API success
+2026-02-24 22:40:18,413 | INFO | Calling Gemini API...
+2026-02-24 22:40:18,413 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-24 22:40:21,932 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-24 22:40:21,936 | INFO | Gemini API success
+2026-02-24 22:41:33,185 | INFO | Calling Gemini API...
+2026-02-24 22:41:33,186 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-24 22:41:36,784 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-24 22:41:36,787 | INFO | Gemini API success
+2026-02-24 22:46:00,417 | INFO | Calling Gemini API...
+2026-02-24 22:46:00,419 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-24 22:46:03,440 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-24 22:46:03,468 | INFO | Gemini API success
+2026-02-24 22:52:36,769 | INFO | Calling Gemini API...
+2026-02-24 22:52:36,771 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-24 22:52:39,452 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-24 22:52:39,466 | INFO | Gemini API success
+2026-02-24 22:52:57,520 | INFO | Calling Gemini API...
+2026-02-24 22:52:57,521 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-24 22:53:04,211 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-24 22:53:04,214 | INFO | Gemini API success
+2026-02-24 22:53:13,370 | INFO | Calling Gemini API...
+2026-02-24 22:53:13,371 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-24 22:53:16,188 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-24 22:53:16,193 | INFO | Gemini API success
+2026-02-24 22:56:01,824 | INFO | Calling Gemini API...
+2026-02-24 22:56:01,825 | INFO | AFC is enabled with max remote calls: 10.
+2026-02-24 22:56:05,072 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-24 22:56:05,075 | INFO | Gemini API success
